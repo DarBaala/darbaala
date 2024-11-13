@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend-Developer
 ------------------
 
-I have been programming for over two years.
+I've been doing programming for over four years now.
 
 * 🌍  I'm based in Grozny
 * ✉️  You can contact me at [nmteg@ya.ru](mailto:nmteg@ya.ru)
