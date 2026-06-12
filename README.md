@@ -6,8 +6,8 @@ Frontend-Developer
 
 I've been doing programming for over four years now.
 
-* 🌍  I'm based in Grozny
-* ✉️  You can contact me at [nmteg@ya.ru](mailto:nmteg@ya.ru)
+* 🌍  I'm based in Tbilisi
+* ✉️  You can contact me at [anmteg@gmail.com](mailto:anmteg@gmail.com)
 
 ### Skills
 
